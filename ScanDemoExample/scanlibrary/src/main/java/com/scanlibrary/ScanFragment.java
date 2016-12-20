@@ -1,7 +1,6 @@
 package com.scanlibrary;
 
 import android.app.Activity;
-import android.app.Fragment;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.CompressFormat;
@@ -12,6 +11,7 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.provider.MediaStore;
+import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
@@ -533,11 +533,12 @@ public class ScanFragment extends Fragment {
         args.putString(ProgressDialogFragment.EXTRA_MESSAGE, getString(R.string.transforming));
         progressDialogFragment = new ProgressDialogFragment();
         progressDialogFragment.setArguments(args);
-        progressDialogFragment.show(getFragmentManager(), "progress_dialog");
+        progressDialogFragment.show(getActivity().getSupportFragmentManager(), "progress_dialog");
     }
 
     protected void dismissDialog() {
-        ProgressDialogFragment progressDialogFragment = (ProgressDialogFragment) getFragmentManager().findFragmentByTag("progress_dialog");
+        ProgressDialogFragment progressDialogFragment = (ProgressDialogFragment) getActivity().getSupportFragmentManager().findFragmentByTag
+                ("progress_dialog");
         if (progressDialogFragment != null) progressDialogFragment.dismissAllowingStateLoss();
     }
 
