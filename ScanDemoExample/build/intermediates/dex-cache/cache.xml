@@ -2,53 +2,184 @@
 <items version="2" >
 
     <item
-        jar="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\exploded-aar\org.opencv\opencv-android\2.4.8\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c50972f15e185c73d50fcef51f16d2392e80c87c">
-        <dex dex="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\pre-dexed\debug\classes-7247d29290bf4ee7366333c01efcad3df2984f0e.jar" />
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c542bf8cfc0cb4b168e00748cfe2e8bc634e4b7">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_674e7434cc14640198dae8f57cec6bf9e2fecc47/classes.dex" />
     </item>
     <item
-        jar="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\pre-dexed\debug\classes-fd738882cb6e7af1483aabaa57e40ff669f4a32c.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_47a0e787d640a94314b1b119165aea9a7f93ba12/classes.dex" />
     </item>
     <item
-        jar="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\pre-dexed\debug\classes-18e08a52f6d260346541ed89c2ca2fb967eb09a3.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e067906ce640c07e01f4e089a0ba485ee8e90090/classes.dex" />
     </item>
     <item
-        jar="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7950da5718ebba63f27e35efa034a6bfa23a8fdb.jar" />
-    </item>
-    <item
-        jar="C:\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-56620581d48b4e53a66e3c8171c6371387ca27a8.jar" />
-    </item>
-    <item
-        jar="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\2.3.0\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.davemorrissey.labs/subsampling-scale-image-view/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.2"
         sha1="705ffc2c856ea563f08d87cc59e797eb37c69e3f">
-        <dex dex="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\pre-dexed\debug\classes-2b2d8c28622750beef57881ff5c12e8d39abd1fc.jar" />
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.davemorrissey.labs-subsampling-scale-image-view-2.3.0_1acb92f2ac8e5520827c1492214d185728792e43/classes.dex" />
     </item>
     <item
-        jar="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\exploded-aar\com.github.andrejlukasevic\document-scanner\4.0.0\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/workcellsolutions/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_5f6448db39fb4b07e03253cf973cc9092d4db9c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.2"
-        sha1="fe31208fcca801be4092731930069df022919212">
-        <dex dex="C:\Workspace\AndroidStudio\AndroidScannerDemo\ScanDemoExample\app\build\intermediates\pre-dexed\debug\classes-5179a26c8b799a11e0564b298202e6011b816a71.jar" />
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_5f6448db39fb4b07e03253cf973cc9092d4db9c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.davemorrissey.labs/subsampling-scale-image-view/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="705ffc2c856ea563f08d87cc59e797eb37c69e3f">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.davemorrissey.labs-subsampling-scale-image-view-2.3.0_1acb92f2ac8e5520827c1492214d185728792e43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_8b98ef6f1103c5f88ecd18bd639a9e1591c8d742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.github.ctodobom/OpenCV-3.1.0-Android/-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="69b42d42ab7e6fb65ad46c1916f923e6d99cf367">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ctodobom-OpenCV-3.1.0-Android--SNAPSHOT_c08cf1e8763a8d65884343241320219c5b610bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_558235eaeba861ea9a50f78c99421f3c2e1b231a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.github.hotchemi/permissionsdispatcher/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32f8bc790ce5bb05e3e13097f21a3a4c7a0c92ab">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.hotchemi-permissionsdispatcher-2.3.0_02b85c39d770486f898a615d6ace54365d3394ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.github.hotchemi/permissionsdispatcher/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="32f8bc790ce5bb05e3e13097f21a3a4c7a0c92ab">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.hotchemi-permissionsdispatcher-2.3.0_02b85c39d770486f898a615d6ace54365d3394ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0fb2b87fed410c9ad6a1547c6f400391255ff56b">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_674e7434cc14640198dae8f57cec6bf9e2fecc47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_082fe7eb52d80cd9afdccf1a796553ff69ed487c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_597298555d5a153539d6d04f39837f971569aa42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.github.ctodobom/OpenCV-3.1.0-Android/-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69b42d42ab7e6fb65ad46c1916f923e6d99cf367">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ctodobom-OpenCV-3.1.0-Android--SNAPSHOT_c08cf1e8763a8d65884343241320219c5b610bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f104316a3da1a1eabc9bc09d351f738e74583f60">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4bbca93c96853de6afb423a8038609f7ce464df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94c178b34bf7c138179abdc7381ce74ecb429680">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4bbca93c96853de6afb423a8038609f7ce464df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8d93c7c7e12f5990ab10ef2811b75e92bc333ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/workcellsolutions/AndroidScannerDemo/ScanDemoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3e32a1738ece19e759a6755dfe371765714999d0/classes.dex" />
     </item>
 
 </items>
