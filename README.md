@@ -24,7 +24,7 @@ ScanLibrary is an android document scanning library built on top of OpenCV, usin
 - If you are using android studio, add the dependency to your main app build.gradle this way: 
 
 ```	    
--  compile 'com.github.andrejlukasevic:document-scanner:4.0.0'  // Check for latest version and replace version code
+-  compile 'com.github.hardikamal:AndroidScannerDemo:5.0'  // Check for latest version and replace version code
 ```
 - In your activity or fragment when you want to give an option of document scanning to user then:
 Start the scanlibrary ScanActivity, with this the app will go to library, below is the sample code snippet:
